@@ -1,5 +1,5 @@
-# internal-dashboard-backend
-ReactJS source code for the bruin entrepreneurs internal dashboard
+# Internal Dashboard Backend
+Backend API for Bruin Entrepenreneurs Internal Dashboard (built in Node.js)
 
 # Getting Started
 Make sure Node Package Manager (npm) is installed
